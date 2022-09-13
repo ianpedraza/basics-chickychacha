@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ChickyChaCha</string>
+    <string name="tom_holland_photo">Tom Holland Photo</string>
+    <string name="andrew_garfield_photo">Andrew Garfield Photo</string>
+    <string name="tobey_maguire_photo">Tobey Maguire Photo</string>
+</resources>
